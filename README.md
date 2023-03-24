@@ -1,4 +1,4 @@
-# UpTask - PHP (MVC)
+# PHP with Docker
 
 ## Getting Started
 
